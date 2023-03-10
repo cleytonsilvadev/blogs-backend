@@ -1,0 +1,31 @@
+[
+  {
+    "apihost": "https://faas-nyc1-2ef2e6cc.doserverless.co",
+    "namespace": "fn-bbe3ac9a-aedd-48f7-b263-aa43fa6c1e5b",
+    "packageVersions": {
+      "blogs": {
+        "version": "0.0.1",
+        "digest": "5072d853be87fe3d452ca7bf5e696549efa79da857dbc7dbec98f66f79adcf2a"
+      }
+    },
+    "actionVersions": {
+      "blogs/createBlogs": {
+        "version": "0.0.1",
+        "digest": "4fbaaa35b2a7b7bc79a0c4f0c41ce22ddd62e7657be8b73e877aa3c7fbc1dca6"
+      },
+      "blogs/deleteBlogs": {
+        "version": "0.0.1",
+        "digest": "7fd7523b833a77f0471b7bfbcb13909de49f3b3ed7ee37d428cd9ebbdcacc8af"
+      },
+      "blogs/getBlogs": {
+        "version": "0.0.1",
+        "digest": "5a8dbd786b3bfc61b5a00b46ee3e7ea7e977cde9dd6cc55fe86b762ce9be44ef"
+      },
+      "blogs/updateBlogs": {
+        "version": "0.0.1",
+        "digest": "21281a83e4feb072fe3aaf2a9601d9a1817a1bd9c08b4cd5c7b230cadbac41f2"
+      }
+    },
+    "webHashes": {}
+  }
+]
